@@ -14,7 +14,7 @@ finish:
    sw $t1,number($t3)		#store the sum to result address
 .data  0x10010080
 number:
-   .word 43218888,23459999,84563211,-500300888,0		#define the numbers at here
+   .word 43218888,23459999,84563211,-500300888,0		# define the numbers at here
    .word -349058790
 times:
    .byte 3			# define how many numbers do add,
