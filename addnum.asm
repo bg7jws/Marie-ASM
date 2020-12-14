@@ -17,4 +17,4 @@ number:
    .word 43218888,23459999,84563211,-500300888,0		# define the numbers at here
    .word -349058790
 times:
-   .byte 3			# define how many numbers do add,
+   .byte 3			         # define how many numbers do add,
